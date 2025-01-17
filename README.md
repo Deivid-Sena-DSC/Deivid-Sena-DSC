@@ -1,0 +1,5 @@
+- 👋 Olá me chamo @Deivid-Sena
+- 👀 Tenho interesse em jogos, computadores, automações, mecânica automotiva
+- 🌱 Meu objetivo atualmente é estudar para me tornar um desenvolvedor.
+- 💞️ Busco oportunidades de poder colaborar em projetos de Python se você precisar de ajuda em projeto me dê a oportunidade de tentar te ajudar
+- 😁 Obrigado por acessar meu repositório.
